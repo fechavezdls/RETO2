@@ -1,0 +1,21 @@
+.cuadro_texto{
+    /*max-width: 250px;*/
+    width: 40%;
+    margin:auto ;
+    padding: auto;
+    border: 1px solid rgb(99, 99, 100);
+    font-size: medium;
+}
+
+.boton {
+    background-color: blue  ;
+    padding: auto;
+    width: 20%;
+    color: azure;
+}
+
+.formulario{
+    background-color:lightblue;
+    width: 20%;
+    padding-left: 30px ;
+}
